@@ -1,3 +1,4 @@
+```
 cat << EOF > baremetal.json
 {
   "iso_url": "https://releases.ubuntu.com/jammy/ubuntu-22.04.4-live-server-amd64.iso",
@@ -5,3 +6,4 @@ cat << EOF > baremetal.json
   "iso_checksum_type": "sha256"
 }
 EOF
+```
