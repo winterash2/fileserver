@@ -7,3 +7,9 @@ cat << EOF > baremetal.json
 }
 EOF
 ```
+```
+https://anywhere-assets.eks.amazonaws.com/releases/bundles/65/artifacts/hook/9d54933a03f2f4c06322969b06caa18702d17f66/vmlinuz-x86_64
+```
+```
+https://anywhere-assets.eks.amazonaws.com/releases/bundles/65/artifacts/hook/9d54933a03f2f4c06322969b06caa18702d17f66/initramfs-x86_64
+```
