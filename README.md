@@ -13,3 +13,7 @@ https://anywhere-assets.eks.amazonaws.com/releases/bundles/65/artifacts/hook/9d5
 ```
 https://anywhere-assets.eks.amazonaws.com/releases/bundles/65/artifacts/hook/9d54933a03f2f4c06322969b06caa18702d17f66/initramfs-x86_64
 ```
+```
+https://drive.google.com/file/d/1S4sIHac_VBX2hfQua3uI0UneWsN9mN3v/view?usp=sharing
+https://drive.google.com/file/d/1_fMbIcd1BGqFM4gD9y0Tvzg_78WJ2E0r/view?usp=sharing
+```
