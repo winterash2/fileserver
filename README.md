@@ -97,3 +97,6 @@ hostname,bmc_ip,bmc_username,bmc_password,mac,ip_address,netmask,gateway,nameser
 eksa-cp01,,,,04:7C:16:04:B3:BF,192.168.0.10,255.255.255.0,192.168.0.1,8.8.8.8|8.8.4.4,type=cp,/dev/nvme0n1
 eksa-wk01,,,,D8:43:AE:4D:E5:02,192.168.0.11,255.255.255.0,192.168.0.1,8.8.8.8|8.8.4.4,type=worker,/dev/nvme0n1
 ```
+```
+https://github.com/tinkerbell/hook/releases/download/latest/hook_latest-lts-x86_64.tar.gz
+```
